@@ -3,4 +3,4 @@ Tahiti Code Camp 2
 
 TP - Zcasino
 
-Il suffit de lancer le jeu et de jouer
+Il suffit de lancer le jeu et de jouer !
